@@ -1,0 +1,10 @@
+{
+  "packageManager": "https://github.com/PauloSergioRomaoJunior/JSKhanFramework",
+  "name": "JSKhanFramework",
+  "repo": "<user>/<repo>",
+  "files": {
+    "basePath": "scripts",
+    "include": ["app.js", "app.min.js"],
+    "exclude": ["<glob-string-3>"]
+  }
+}
